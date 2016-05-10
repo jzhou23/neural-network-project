@@ -2,8 +2,7 @@
 //  testing.cpp
 //  neural network
 //
-//  Created by Tao Jiang on 5/10/16.
-//  Copyright © 2016 Tao Jiang. All rights reserved.
+//   All rights reserved.
 //
 
 #include <iostream>
