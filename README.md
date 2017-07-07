@@ -6,5 +6,5 @@
 
 ## Authors
 
-* **Tao Jiang**
-* **Jiahuang Zhou**
+* [Tao Jiang](https://github.com/U5years)
+* [Jiahuang Zhou](https://github.com/jzhou23)
